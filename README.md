@@ -16,7 +16,7 @@ Este repositorio contiene una implementación del método numérico de la Regla 
 1. Clona el repositorio:
 
 ```
-git clone https://github.com/DavidPinedoSrz/animeAPI.git
+git clone https://github.com/DavidPinedoSrz/reglaFalsa-falsaPosici-n-.git
 ```
 
 2. Para compilar y ejecutar:
